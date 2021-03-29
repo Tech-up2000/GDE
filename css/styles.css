@@ -121,7 +121,7 @@ Navigation
     margin: 1px 50px 0 0
 }
 .navicon-fixed {
-    position: fixed;
+    position: relative;
     top: 59px;
     right: 143px;
 }
