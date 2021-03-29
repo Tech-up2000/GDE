@@ -93,5 +93,10 @@ width:30%;
 
 .left-column {
 	width:30%;
+	position:relative;
+	}
 
+.right-column {
+	width:30%;
+	
 	}
