@@ -96,7 +96,13 @@ width:30%;
 	position:relative;
 	}
 
+.left-column {
+	width:40%;
+	height:40%;
+	position: relative;
+	}
+
 .right-column {
-	width:30%;
-	margin-left:4%;
+	width:50%;
+	padding:0 0 0 50px;
 	}
