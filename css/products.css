@@ -12,10 +12,10 @@ body {
 .main {
 
   max-width: 1000px;
-  margin: 200px;
+  margin: auto;
 }
 
-h1 {
+h2 {
   margin:50px;
   font-size: 100px;
 }
