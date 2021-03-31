@@ -3,7 +3,7 @@ Navigation
 ------------------------------------------------------------------------------------------------- */
 .nav-toggle {
     position: fixed;
-    top: 55px;
+    top: 50px;
     right: 80px;
     z-index: 999999;
     padding: 10px 35px 16px 0px;
@@ -67,7 +67,7 @@ Hero
 ------------------------------------------------------------------------------------------------- */
 .hero {
     position: relative;
-    padding: 60px 60px 60px 60px;
+    padding: 50px 50px 10px 10px;
     min-height: 900px;
     background: rgb(40, 70, 102) url('../img/hero.jpg') no-repeat center center;
     background-size: cover;
@@ -96,9 +96,7 @@ Hero
     width: auto;
     height: auto;
 }
-header i {
-    margin-left: 50px
-}
+
 
 h3{
 	color:green;
